@@ -22,7 +22,6 @@ The Interface expects a Individual class with the following parameters and metho
 from random import shuffle as _shuffle, randint as _randint, random as _random
 from matplotlib import pyplot as _plt
 from functools import reduce as _reduce
-from population import Population
 
 __all__ = ["DifferentialEvolution", "search", "plot_history"]
 

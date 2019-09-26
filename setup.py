@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-    name="simple-differential_evolution",
+    name="differential_evolution",
     version="0.0.1",
     author="mariusaarsnes",
     author_email="marius.aarsnes@gmail.com",
