@@ -12,7 +12,7 @@ setuptools.setup(
     description="A simple interface to run differential evolution",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mariusaarsnes/differential-evolution"
+    url="https://github.com/mariusaarsnes/differential-evolution",
     packages=setuptools.find_packages(),
     classifiers=["Programming Language :: Python :: 3",
                  "Licence :: OSI Approved :: MIT Licence",
