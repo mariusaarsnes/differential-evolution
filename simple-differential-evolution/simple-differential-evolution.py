@@ -23,10 +23,10 @@ from random import shuffle as _shuffle, randint as _randint, random as _random
 from matplotlib import pyplot as _plt
 from functools import reduce as _reduce
 
-__all__ = ["DifferentialEvolution", "search", "plot_history"]
+__all__ = ["SimpleDifferentialEvolution", "search", "plot_history"]
 
 
-class DifferentialEvolution():
+class SimpleDifferentialEvolution():
     """Differential Evolution base class.
 
     Used to instantiate instances of differential evolution.

@@ -5,17 +5,17 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-    name="differential_evolution",
+    name="simple-differential-evolution",
     version="0.0.1",
     author="mariusaarsnes",
     author_email="marius.aarsnes@gmail.com",
     description="A simple interface to run differential evolution",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mariusaarsnes/differential-evolution",
+    url="https://github.com/mariusaarsnes/simple-differential-evolution",
     packages=setuptools.find_packages(),
     classifiers=["Programming Language :: Python :: 3",
                  "License :: OSI Approved :: MIT License",
-                 "Operating System :: OS INdependent"],
+                 "Operating System :: OS Independent"],
     python_requires='>=3.6.8'
 )

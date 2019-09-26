@@ -1,8 +1,0 @@
-README.md
-setup.py
-differential_evolution/__init__.py
-differential_evolution/differential_evolution.py
-differential_evolution.egg-info/PKG-INFO
-differential_evolution.egg-info/SOURCES.txt
-differential_evolution.egg-info/dependency_links.txt
-differential_evolution.egg-info/top_level.txt
