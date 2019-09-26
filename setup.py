@@ -15,7 +15,7 @@ setuptools.setup(
     url="https://github.com/mariusaarsnes/differential-evolution",
     packages=setuptools.find_packages(),
     classifiers=["Programming Language :: Python :: 3",
-                 "Licence :: OSI Approved :: MIT Licence",
+                 "License :: OSI Approved :: MIT Licence",
                  "Operating System :: OS INdependent"],
     python_requires='>=3.6.8'
 )
