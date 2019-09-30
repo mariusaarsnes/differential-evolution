@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="py-ea",
-    version="0.0.1",
+    version="0.0.2",
     author="mariusaarsnes",
     author_email="marius.aarsnes@gmail.com",
     description="Evolutionary algorithms written in python",

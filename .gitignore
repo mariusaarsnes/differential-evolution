@@ -1,5 +1,6 @@
 **/__pychache__/**
 .vscode
 
-pyea/pop.py
-pyea/test.py
+build/
+dist/
+*.egg-info
