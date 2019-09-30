@@ -5,14 +5,14 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-    name="simple-differential-evolution",
+    name="py-ea",
     version="0.0.1",
     author="mariusaarsnes",
     author_email="marius.aarsnes@gmail.com",
-    description="A simple interface to run differential evolution",
+    description="Evolutionary algorithms written in python",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/mariusaarsnes/simple-differential-evolution",
+    url="https://github.com/mariusaarsnes/pyea",
     packages=setuptools.find_packages(),
     classifiers=["Programming Language :: Python :: 3",
                  "License :: OSI Approved :: MIT License",
